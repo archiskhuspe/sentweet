@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
-A Python notebook that fetches a Twitter/X user's most recent tweets, classifies each
+Sentweet is a Python notebook that fetches a Twitter/X user's most recent tweets, classifies each
 tweet's sentiment as **positive**, **negative**, or **neutral**, and visualises the results
 with a word cloud, a polarity/subjectivity scatter plot, and bar/pie charts.
 
